@@ -1,8 +1,9 @@
 {
-  /* Alfabetik sıraya göre yazınız */
+  "_comment": "Alfabetik sıraya göre yazınız",
+  
   "Avange" : "İntikam",
   "Baffle" : "Şaşırtmak,Aklını karıştırmak",
   "Invisible" : "Gözle görünmez,Görülmez",
   "Persistent" : "Israrcı",
-  "Priority" : "Öncelik",
+  "Priority" : "Öncelik"
 }
